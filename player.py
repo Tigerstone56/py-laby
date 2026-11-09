@@ -1,7 +1,6 @@
 from enum import Enum
 
 from utils import import_config
-
 config = import_config()
 
 from utils import darken_color, get_position
