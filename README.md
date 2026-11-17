@@ -74,4 +74,4 @@ Si ça vous intérresse ou ça vous amuse, n'hésitez pas à *fork* le repos et 
 
 ## 👨‍💻 Auteurs
 
-**[Toraishi](https://github.com/Tigerstone56), [lirÿsm](https://github.com/lirysm), Tahitiboss1 & roubain**
+**[Toraishi](https://github.com/Tigerstone56), [lirÿsm](https://github.com/lirysm), [Tahitiboss1](https://github.com/tahitiboss1) & roubain**
